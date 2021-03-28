@@ -3,3 +3,7 @@
 ### Activities
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inst-AAA&repo=archiweb&theme=gotham)](https://github.com/Inst-AAA/archiweb)　
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amomorning&repo=dodecahedron-calendar&theme=gotham)](https://github.com/amomorning/dodecahedron-calendar)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/amomorning/count.svg" />
+</p>
