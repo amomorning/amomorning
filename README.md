@@ -1,4 +1,5 @@
-[![Amomorning's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amomorning&theme=gotham&hide_progress=true)](https://github.com/amomorning)　　
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->　　
 ![](./amo.png)
 
 <p align="center"> 
