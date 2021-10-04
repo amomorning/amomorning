@@ -42,13 +42,14 @@ Sunday       124 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Objective-C              45 mins             █████████████████████████   99.68% 
+Mathematica              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.0%
 
 ```
 
@@ -65,5 +66,5 @@ Jupyter Notebook         4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2021
+ Last Updated on 04/10/2021
 <!--END_SECTION:waka-->　　
