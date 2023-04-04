@@ -4,15 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 March 2023 - To: 03 April 2023
+From: 04 March 2023 - To: 03 April 2023
 
-Total Time: 8 hrs 56 mins
+Total Time: 35 hrs 44 mins
 
-unity      4 hrs 55 mins   █████████████▓░░░░░░░░░░░   55.04 %
-Python     3 hrs 1 min     ████████▒░░░░░░░░░░░░░░░░   33.87 %
-Markdown   54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-C#         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python           15 hrs 52 mins  ███████████░░░░░░░░░░░░░░   44.43 %
+Markdown         11 hrs 7 mins   ███████▓░░░░░░░░░░░░░░░░░   31.11 %
+unity            4 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+Other            1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 ```
 
 <!--END_SECTION:waka-->　　
