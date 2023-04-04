@@ -1,4 +1,4 @@
-# Hey, thanks for stopping by! 🦭
+# Hey, Thanks for Stopping By! 🦭
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amomorning&show_icons=true&theme=noctis_minimus&hide=issues">
@@ -6,7 +6,7 @@
 </picture>
 
 
-My name is Yichen Mo, a PhD student (from fall, 2019) at [Inst. AAA](https://archialgo.com).
+My name is Yichen Mo, a PhD candidate at [Inst. AAA](https://archialgo.com).
 
 -   :gear: Python / C++ / Java / JavaScript / Vue / C# / $\LaTeX$ 
 -   :pencil2: [ArchiWeb](https://web.archialgo.com) / [ArchiJSON](https://www.food4rhino.com/en/app/archijson) / [ArchIndex](https://index.archialgo.com/) 
@@ -22,7 +22,7 @@ My name is Yichen Mo, a PhD student (from fall, 2019) at [Inst. AAA](https://arc
 </picture>
 
   
-### 📊 Last 30 days I Spent My Time On
+### 📊 Last 30 Days I Spent My Time on
 
 <!--START_SECTION:waka-->
 
