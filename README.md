@@ -6,6 +6,8 @@
 ```text
 From: 27 March 2023 - To: 03 April 2023
 
+Total Time: 8 hrs 56 mins
+
 unity      4 hrs 55 mins   █████████████▓░░░░░░░░░░░   55.04 %
 Python     3 hrs 1 min     ████████▒░░░░░░░░░░░░░░░░   33.87 %
 Markdown   54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
