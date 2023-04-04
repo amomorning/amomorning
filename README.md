@@ -1,8 +1,8 @@
 # Hey, thanks for stopping by! 🦭
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amomorning&show_icons=true&theme=dark&hide=issues">
-    <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=amomorning&show_icons=true&theme=graywhite&hide=issues">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amomorning&show_icons=true&theme=noctis_minimus&hide=issues">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=amomorning&show_icons=true&theme=graywhite&hide=issues">
 </picture>
 
 
@@ -17,8 +17,8 @@ My name is Yichen Mo, a PhD student (from fall, 2019) at [Inst. AAA](https://arc
 ---
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amomorning&hide=Mathematica,Jupyter%20Notebook&theme=dark&layout=compact">
-    <img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amomorning&hide=Mathematica,Jupyter%20Notebook&theme=graywhite&layout=compact">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amomorning&hide=Mathematica&theme=noctis_minimus">
+    <img align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amomorning&hide=Mathematica&theme=graywhite">
 </picture>
 
   
