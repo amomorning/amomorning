@@ -18,4 +18,5 @@ jobs:
           SHOW_TITLE: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
+          TIME_RANGE: last_30_days
 
