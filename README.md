@@ -26,8 +26,8 @@ My name is Yichen Mo, a PhD candidate at [Inst. AAA](https://archialgo.com).
 
 <!--START_SECTION:waka-->
 
-```text
-From: 01 May 2023 - To: 31 May 2023
+```txt
+From: 02 May 2023 - To: 01 June 2023
 
 Total Time: 43 hrs 51 mins
 
