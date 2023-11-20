@@ -22,7 +22,7 @@ My name is Yichen Mo, a PhD candidate at [Inst. AAA](https://archialgo.com).
 </picture>
 
   
-### 📊 Last 30 Days I Spent My Time on
+### 📊 Last 7 Days I Spent My Time on
 
 <!--START_SECTION:waka-->
 
