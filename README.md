@@ -8,7 +8,7 @@
 
 My name is Yichen Mo, a PhD candidate at [Inst. AAA](https://archialgo.com).
 
--   :gear: Python / C++ / Java / JavaScript / Vue / C# / $\LaTeX$ 
+-   :gear: Python / Typst / C++ / Java / JavaScript / Vue / C# / $\LaTeX$ 
 -   :pencil2: [ArchiWeb](https://web.archialgo.com) / [ArchiJSON](https://www.food4rhino.com/en/app/archijson) / [ArchIndex](https://index.archialgo.com/) 
 -   :abacus: [Codeforces](https://codeforces.com/profile/LaPluma) / [AtCoder](https://atcoder.jp/users/amomorning)
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/amomorning/amomorning/discussions/new)!
