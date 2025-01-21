@@ -6,7 +6,7 @@
 </picture>
 
 
-My name is Yichen Mo, a PhD candidate at [Inst. AAA](https://archialgo.com).
+My name is Yichen Mo, a PhD candidate at [Lab AAA](https://archialgo.com).
 
 -   :gear: Python / Typst / C++ / Java / JavaScript / Vue / C# / $\LaTeX$ 
 -   :pencil2: [ArchiWeb](https://web.archialgo.com) / [ArchiJSON](https://www.food4rhino.com/en/app/archijson) / [ArchIndex](https://index.archialgo.com/) 
