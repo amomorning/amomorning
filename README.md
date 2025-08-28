@@ -27,15 +27,15 @@ My name is Yichen Mo, a PhD candidate at [Lab AAA](https://archialgo.com).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2025 - To: 25 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-Total Time: 21 hrs 6 mins
+Total Time: 17 hrs 4 mins
 
-Python        9 hrs 29 mins   ███████████▒░░░░░░░░░░░░░   44.92 %
-Other         5 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
-Markdown      4 hrs 56 mins   ██████░░░░░░░░░░░░░░░░░░░   23.42 %
-Typst         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-YAML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Markdown   8 hrs 48 mins   █████████████░░░░░░░░░░░░   51.62 %
+Other      5 hrs 21 mins   ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+Typst      1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Python     1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+HTML       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->　　
