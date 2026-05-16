@@ -1,9 +1,9 @@
 # Hey, Thanks for Stopping By! 🦭
 
-<picture>
+<!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amomorning&show_icons=true&theme=noctis_minimus&hide=issues">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=amomorning&show_icons=true&theme=graywhite&hide=issues">
-</picture>
+</picture> -->
 
 
 My name is Yichen Mo, a PhD candidate at [Lab AAA](https://archialgo.com).
@@ -16,10 +16,10 @@ My name is Yichen Mo, a PhD candidate at [Lab AAA](https://archialgo.com).
 
 ---
 
-<picture>
+<!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amomorning&hide=Mathematica&theme=noctis_minimus">
     <img align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amomorning&hide=Mathematica&theme=graywhite">
-</picture>
+</picture> -->
 
   
 ### 📊 Last 7 Days I Spent My Time on
