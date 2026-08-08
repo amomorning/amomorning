@@ -6,10 +6,11 @@
 </picture> -->
 
 
-My name is Yichen Mo, a PhD candidate at [Lab AAA](https://archialgo.com).
+My name is Yichen Mo, a Postdoctoral Researcher at Southeast University, working at the intersection of architecture and informatics.
 
--   :gear: Python / Typst / C++ / Java / JavaScript / Vue / C# / $\LaTeX$ 
--   :pencil2: [ArchiWeb](https://web.archialgo.com) / [ArchiJSON](https://www.food4rhino.com/en/app/archijson) / [ArchIndex](https://index.archialgo.com/) 
+-   :gear: Python / C++ / JavaScript / TypeScript / Vue / C# / SQL / $\LaTeX$
+-   :microscope: Building data-driven workflows for architectural informatics, spatial computing, and computational design
+-   :pencil2: [ArchiWeb](https://web.archialgo.com) / [ArchiJSON](https://www.food4rhino.com/en/app/archijson) / [ArchIndex](https://index.archialgo.com/)
 -   :abacus: [Codeforces](https://codeforces.com/profile/LaPluma) / [AtCoder](https://atcoder.jp/users/amomorning)
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/amomorning/amomorning/discussions/new)!
 
@@ -22,7 +23,7 @@ My name is Yichen Mo, a PhD candidate at [Lab AAA](https://archialgo.com).
 </picture> -->
 
   
-### 📊 Last 7 Days I Spent My Time on
+### 📊 WakaTime Development Snapshot (Auto-updated)
 
 <!--START_SECTION:waka-->
 
