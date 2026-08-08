@@ -23,7 +23,7 @@ My name is Yichen Mo, a Postdoctoral Researcher at Southeast University, working
 </picture> -->
 
   
-### 📊 WakaTime Development Snapshot (Auto-updated)
+### 📊 Last 7 Days I Spent My Time on
 
 <!--START_SECTION:waka-->
 

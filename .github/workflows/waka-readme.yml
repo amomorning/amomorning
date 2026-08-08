@@ -19,10 +19,3 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
           TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          SHOW_PROJECTS: true
-          SHOW_EDITORS: true
-          SHOW_OS: true
-          SHOW_LANGUAGE: true
-          SHOW_LINES_OF_CODE: true
-          LANG_COUNT: 8
