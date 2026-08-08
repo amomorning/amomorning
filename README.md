@@ -9,8 +9,8 @@
 My name is Yichen Mo, a Postdoctoral Researcher at Southeast University, working at the intersection of architecture and informatics.
 
 -   :gear: Python / C++ / JavaScript / TypeScript / Vue / C# / SQL / $\LaTeX$
--   :microscope: Building data-driven workflows for architectural informatics, spatial computing, and computational design
--   :pencil2: [ArchiWeb](https://web.archialgo.com) / [ArchiJSON](https://www.food4rhino.com/en/app/archijson) / [ArchIndex](https://index.archialgo.com/)
+-   :microscope: Focusing on architectural informatics, spatial analytics, and human-AI workflows for computational design research
+-   :pencil2: Projects — [ArchiWeb](https://web.archialgo.com) (web platform for architecture data workflows) / [ArchiJSON](https://www.food4rhino.com/en/app/archijson) (open schema bridge for design interoperability) / [ArchIndex](https://index.archialgo.com/) (searchable architecture knowledge index)
 -   :abacus: [Codeforces](https://codeforces.com/profile/LaPluma) / [AtCoder](https://atcoder.jp/users/amomorning)
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/amomorning/amomorning/discussions/new)!
 
