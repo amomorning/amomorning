@@ -28,15 +28,15 @@ My name is Yichen Mo, a Postdoctoral Researcher at Southeast University, working
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2026 - To: 25 August 2026
+From: 21 August 2026 - To: 28 August 2026
 
-Total Time: 31 hrs 37 mins
+Total Time: 36 hrs 35 mins
 
-Typst          10 hrs 37 mins        ████████▒░░░░░░░░░░░░░░░░   33.61 %
-Python         8 hrs 5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
-Markdown       7 hrs 3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
-Other          2 hrs 11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-JSON           56 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Typst          12 hrs 45 mins        ████████▓░░░░░░░░░░░░░░░░   34.85 %
+Python         9 hrs 52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
+Markdown       9 hrs 7 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
+Other          2 hrs                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+YAML           54 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->　　
